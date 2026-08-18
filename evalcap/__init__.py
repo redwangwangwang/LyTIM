@@ -1,0 +1,1 @@
+# All code files in "evalcap" folder are copied from R2GenGPT and HC-LLM github repository
